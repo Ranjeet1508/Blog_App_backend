@@ -1,0 +1,41 @@
+.signupContainer{
+    padding: 2rem;
+    display: flex;
+    justify-content: center;
+    text-align: left;
+}
+
+.formContainer{
+    
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    width: 35%;
+    height: 60vh;
+}
+
+.myLabel{
+    font-size: 18px;
+}
+
+.form{
+    padding: 2rem;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.myInput{
+    width: 300px;
+    height: 24px;
+    border-radius: 10px;
+}
+
+.submitBtn{
+    width: 104px;
+    height: 34px;
+    background: rgb(50,85,210);
+    color: white;
+    font-size: 18px;
+    padding: 2px;
+    border-radius: 10px;
+    margin-top: 20px;
+}

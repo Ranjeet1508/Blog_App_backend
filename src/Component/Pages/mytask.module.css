@@ -1,0 +1,14 @@
+.myinput{
+    width: 30vw;
+    height: 25px;
+    padding: 2px;
+    font-size: 15px;
+}
+
+.addbtn{
+    background: rgb(50,85,210);
+    width: 4rem;
+    height: 2rem;
+    color: white;
+    font-size: 15px;
+}

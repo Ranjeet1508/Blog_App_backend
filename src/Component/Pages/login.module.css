@@ -1,0 +1,64 @@
+.loginContainer{
+    margin-top: 10vh;
+    display: flex;
+    justify-content: center;
+}
+
+.loginForm{
+    width: 30%;
+    padding: 2.5rem;
+    height: 50vh;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.email{
+    text-align: left;
+}
+
+.password{
+    margin-top: 10px;
+    text-align: left;
+}
+
+.loginInput{
+    width: 30vw;
+    height: 25px;
+    padding: 2px;
+    font-size: 15px;
+    border-radius: 10px;
+}
+
+.myLabel{
+    font-weight: 400;
+    font-size: 1.5vw;
+}
+
+.loginBtn{
+    width: 98px;
+    height: 34px;
+    font-size: 17px;
+    border-radius: 10px;
+    background: rgb(50,85,210);
+    color: white;
+    margin-top: 1rem;
+}
+
+.googleBtn{
+    width: 230px;
+    height: 34px;
+    font-size: 17px;
+    border-radius: 10px;
+    background: rgb(50,85,210);
+    color: white;
+}
+
+.githubBtn{
+    width: 230px;
+    height: 34px;
+    font-size: 17px;
+    border-radius: 10px;
+    background: rgb(50,85,210);
+    color: white;
+    margin-top: 10px;
+}
+
